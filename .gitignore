@@ -1,0 +1,9 @@
+/target
+
+# Windows
+*.exe
+*.pdb
+
+# Cargo
+*.lock
+*.toml
